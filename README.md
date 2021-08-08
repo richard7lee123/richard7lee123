@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @richard7lee123
+- 👋 Hi, I’m JH.
 - 👀 I’m interested in Securities.
 - 🌱 I’m currently learning Python Programming.
 # - 💞️ I’m looking to collaborate on ...
